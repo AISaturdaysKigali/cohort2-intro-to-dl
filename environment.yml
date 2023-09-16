@@ -1,0 +1,14 @@
+name: ai6-dl
+dependencies:
+  - python=3.10
+  - requests
+  - numpy
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - pytorch
+  - torchvision
+  - ipywidgets
+  - pathlib
+  - tqdm
+  - pip
