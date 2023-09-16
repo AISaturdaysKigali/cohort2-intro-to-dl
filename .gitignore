@@ -3,5 +3,5 @@
 .idea
 __pycache__
 
-instructor_*
+[Ii]nstructor_*
 solutions
