@@ -6,7 +6,7 @@ dependencies:
   - scipy
   - matplotlib
   - scikit-learn
-  - pytorch
+  - torch
   - torchvision
   - ipywidgets
   - pathlib
