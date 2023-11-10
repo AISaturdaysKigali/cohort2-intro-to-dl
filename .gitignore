@@ -7,6 +7,9 @@ __pycache__
 solutions
 
 ai6kigali_ci
+
+# data
 data
 EMNIST
 images
+imagenette2-320
