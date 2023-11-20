@@ -12,4 +12,13 @@ ai6kigali_ci
 data
 EMNIST
 images
+
+# W6
 imagenette2-320
+
+# W7
+cifar10
+mnist
+nltk_data
+omw-1.4.zip
+wordnet.zip
